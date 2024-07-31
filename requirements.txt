@@ -1,0 +1,8 @@
+datasets
+matplotlib
+scikit-learn
+autopep8
+tree-sitter-python
+tree-sitter-java
+tree-sitter
+ipykernel
